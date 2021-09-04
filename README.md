@@ -13,6 +13,8 @@
   <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/512px-Stack_Overflow_icon.svg.png" />
 </a>
 
+<br />
+
 ### About Me 🚀
 🎓 I’m an Open-Source enthusiast & a passionate self-taught full stack web developer and a software engineer from india. </br>
 👨‍💻  I am passionate about NodeJS, Web Dev, Machine Learning, DevOps & I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source. </br>
