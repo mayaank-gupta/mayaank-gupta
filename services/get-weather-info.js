@@ -16,8 +16,8 @@ module.exports = () => {
     }
 
     let response = {
-      city_temperature: Math.round(res.data.main['temp']),
-      city_weather: res.data.weather[0]['description'],
+      city_temperature: Math.round(res.data.main.temp),
+      city_weather: res.data.weather[0].description,
       sun_rise: new Date(res.data.sys.sunrise * 1000).toLocaleString('en-GB', {
         hour: '2-digit',
         minute: '2-digit',

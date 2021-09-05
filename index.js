@@ -25,6 +25,7 @@ let response = {
 async function setWeatherInformation() {
   [error, data] = await utilities.safePromise(getWeatherInfoService());
   response = { ...response, ...data };
+  return;
 }
 
 
