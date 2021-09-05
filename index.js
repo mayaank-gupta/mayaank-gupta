@@ -8,7 +8,7 @@ const getWeatherInfoService = services.getWeatherInfo;
 
 const MUSTACHE_MAIN_DIR = './main.mustache';
 
-let error;
+let error, finalObj;
 
 let response = {
   refresh_date: new Date().toLocaleDateString('en-GB', {
@@ -24,7 +24,7 @@ let response = {
 
 async function setWeatherInformation() {
   [error, data] = await utilities.safePromise(getWeatherInfoService());
-  response = { ...response, ...data };
+  finalObj = { ...response, ...data };
   return;
 }
 
