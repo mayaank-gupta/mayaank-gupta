@@ -60,8 +60,8 @@
 <img width="200" src="" />
 </p>
 
-<p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/johannesburginyourpocket/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @johannesburginyourpocket!</a><br/>Currently, the weather is: <b> °C, <i></i></b></br>Today, the sun rises at <b></b> and sets at <b></b>.</p>
+<p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/johannesburginyourpocket/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @johannesburginyourpocket!</a><br/>Currently, the weather is: <b> 29°C, <i>haze</i></b></br>Today, the sun rises at <b>06:24</b> and sets at <b>18:50</b>.</p>
 
 <hr>
 
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Sunday, 5 September, 15:02 GMT+5:30<br />
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Sunday, 5 September, 15:46 GMT+5:30<br />

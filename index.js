@@ -2,68 +2,66 @@ require('dotenv').config();
 const Mustache = require('mustache');
 const fs = require('fs');
 const services = require('./services');
+const utilities = require('./utilities');
 const puppeteerService = services.puppeteerService;
 const getWeatherInfo = services.getWeatherInfo;
 
 const MUSTACHE_MAIN_DIR = './main.mustache';
 
-let response = {
-  refresh_date: new Date().toLocaleDateString('en-GB', {
-    weekday: 'long',
-    month: 'long',
-    day: 'numeric',
-    hour: 'numeric',
-    minute: 'numeric',
-    timeZoneName: 'short',
-    timeZone: 'Asia/Kolkata',
-  }),
-};
-
-async function setWeatherInformation() {
-  await getWeatherInfo()
-    .then((data) => {
-      response['city_temperature'] = data.city_temperature;
-      response['city_weather'] = data.city_weather;
-      response['sun_rise'] = data.sun_rise;
-      response['sun_set'] = data.sun_set;
-      return 1;
-    })
-    .catch((err) => {
-      return err;
-    })
-}
-
 async function setInstagramPosts() {
   const instagramImages = await puppeteerService.getLatestInstagramPostsFromAccount('johannesburginyourpocket', 3);
-  response['img1'] = instagramImages[0];
-  response['img2'] = instagramImages[1];
-  response['img3'] = instagramImages[2];
+  return instagramImages;
+
 }
 
-async function generateReadMe() {
-  await fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
-    if (err) throw err;
-    console.log(response)
-    const output = Mustache.render(data.toString(), response);
-    fs.writeFileSync('README.md', output);
-  });
+function generateReadMe(response) {
+  return new Promise(async (resolve, reject) => {
+    fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
+      if (err) {
+        return reject(err);
+      };
+      const output = Mustache.render(data.toString(), response);
+      fs.writeFileSync('README.md', output);
+      return resolve(true);
+    });
+  })
 }
 
 async function action() {
-  /**
-   * Fetch Weather
-   */
-  await setWeatherInformation();
+
+  let response = {
+    refresh_date: new Date().toLocaleDateString('en-GB', {
+      weekday: 'long',
+      month: 'long',
+      day: 'numeric',
+      hour: 'numeric',
+      minute: 'numeric',
+      timeZoneName: 'short',
+      timeZone: 'Asia/Kolkata',
+    }),
+  };
+
+  let [error, data] = await utilities.safePromise(getWeatherInfo());
+
+  response['city_temperature'] = data.city_temperature;
+  response['city_weather'] = data.city_weather;
+  response['sun_rise'] = data.sun_rise;
+  response['sun_set'] = data.sun_set;
 
   /**
    * Get pictures
    */
-  await setInstagramPosts();
+
+  let imagesData = await setInstagramPosts();
+
+  response['img1'] = imagesData[0];
+  response['img2'] = imagesData[1];
+  response['img3'] = imagesData[2];
 
   /**
    * Generate README
    */
-  await generateReadMe();
+  let [err, templateRes] = await utilities.safePromise(generateReadMe(response));
 
   /**
    * Fermeture de la boutique 👋
