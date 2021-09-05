@@ -32,10 +32,10 @@ async function action() {
 
   let [error, data] = await utilities.safePromise(getWeatherInfo());
 
-  response['city_temperature'] = data.city_temperature;
-  response['city_weather'] = data.city_weather;
-  response['sun_rise'] = data.sun_rise;
-  response['sun_set'] = data.sun_set;
+  response.city_temperature = data.city_temperature;
+  response.city_weather = data.city_weather;
+  response.sun_rise = data.sun_rise;
+  response.sun_set = data.sun_set;
 
   /**
    * Get pictures
