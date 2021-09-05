@@ -33,12 +33,12 @@ async function setWeatherInformation() {
     })
 }
 
-// async function setInstagramPosts() {
-//   const instagramImages = await puppeteerService.getLatestInstagramPostsFromAccount('johannesburginyourpocket', 3);
-//   response.img1 = instagramImages[0];
-//   response.img2 = instagramImages[1];
-//   response.img3 = instagramImages[2];
-// }
+async function setInstagramPosts() {
+  const instagramImages = await puppeteerService.getLatestInstagramPostsFromAccount('johannesburginyourpocket', 3);
+  response['img1'] = instagramImages[0];
+  response['img2'] = instagramImages[1];
+  response['img3'] = instagramImages[2];
+}
 
 async function generateReadMe() {
   await fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
@@ -58,7 +58,7 @@ async function action() {
   /**
    * Get pictures
    */
-  // await setInstagramPosts();
+  await setInstagramPosts();
 
   /**
    * Generate README
