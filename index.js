@@ -8,12 +8,6 @@ const getWeatherInfo = services.getWeatherInfo;
 
 const MUSTACHE_MAIN_DIR = './main.mustache';
 
-async function setInstagramPosts() {
-  const instagramImages = await puppeteerService.getLatestInstagramPostsFromAccount('johannesburginyourpocket', 3);
-  return instagramImages;
-
-}
-
 async function generateReadMe(valuesObj) {
   await fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
     if (err) throw err;
@@ -47,7 +41,7 @@ async function action() {
    * Get pictures
    */
 
-  let imagesData = await setInstagramPosts();
+  let imagesData = await puppeteerService.getLatestInstagramPostsFromAccount('johannesburginyourpocket', 3);
 
   response['img1'] = imagesData[0];
   response['img2'] = imagesData[1];
