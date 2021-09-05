@@ -14,7 +14,7 @@ module.exports = () => {
     if (error) {
       return reject(error);
     }
-
+    
     let response = {
       city_temperature: Math.round(res.data.main.temp),
       city_weather: res.data.weather[0].description,

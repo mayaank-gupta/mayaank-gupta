@@ -8,12 +8,11 @@ const getWeatherInfo = services.getWeatherInfo;
 
 const MUSTACHE_MAIN_DIR = './main.mustache';
 
-function generateReadMe(valuesObj) {
-  fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
+async function generateReadMe(data) {
+  await fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
     if (err) throw err;
-    const output = Mustache.render(data.toString(), valuesObj);
+    const output = Mustache.render(data.toString(), data);
     fs.writeFileSync('README.md', output);
-    return 1;
   });
 }
 
