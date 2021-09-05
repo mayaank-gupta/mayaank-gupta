@@ -1,5 +1,6 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Mayank!](https://imayank.me/) 
 
+### Connect with me on:
 <a href="https://www.linkedin.com/in/xmayank/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
@@ -20,7 +21,7 @@
 👨‍💻  I am passionate about NodeJS, Web Dev, Machine Learning, DevOps & I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source. </br>
 🙌 I take great care in the experience, architecture, and code quality of the things I build. 
 </br>
-### Languages and Tools:
+### Things I code with:
 
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Java" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
