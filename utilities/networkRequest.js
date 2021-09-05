@@ -2,7 +2,7 @@ const axios = require('axios');
 const safePromise = require('./safe-promise');
 
 module.exports = (reqObj) => {
-  return new Promise((resolve, reject) => {
+  return new Promise(async (resolve, reject) => {
 
     let obj = {
       method: reqObj.method,
