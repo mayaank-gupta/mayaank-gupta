@@ -1,19 +1,22 @@
 const axios = require('axios');
+const safePromise = require('./safe-promise');
 
 module.exports = (reqObj) => {
   return new Promise((resolve, reject) => {
 
-    axios({
+    let obj = {
       method: reqObj.method,
       url: reqObj.url,
       responseType: 'json'
-    })
-      .then(function (response) {
-        return resolve(response);
-      })
-      .catch(function (err) {
-        return reject(err);
-      })
+    }
+
+    let [err, data] = await safePromise(axios(obj));
+
+    if (err) {
+      return reject(err);
+    }
+
+    return resolve(data);
 
   })
 }
