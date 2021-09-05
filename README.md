@@ -19,9 +19,7 @@
 🎓 I’m an Open-Source enthusiast & a passionate self-taught full stack web developer and a software engineer from india. </br>
 👨‍💻  I am passionate about NodeJS, Web Dev, Machine Learning, DevOps & I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source. </br>
 🙌 I take great care in the experience, architecture, and code quality of the things I build. 
-
 </br>
-
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
