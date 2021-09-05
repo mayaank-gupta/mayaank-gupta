@@ -60,8 +60,8 @@
 <img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.fiev22-2.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cc216.0.1007.1007a%7C%7Cs640x640%7C%7C241183533_556536149132290_4011927935141333850_n.jpg%3F_nc_ht%3Dinstagram.fiev22-2.fna.fbcdn.net%26_nc_cat%3D110%26_nc_ohc%3DF4FpEX01u-EAX9FWL7R%26edm%3DAAWvnRQBAAAA%26ccb%3D7-4%26oh%3Dc67df0a1a30ebfb0a6a99c47ccbc13ef%26oe%3D613B5950%26_nc_sid%3De7738c" />
 </p>
 
-<p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/johannesburginyourpocket/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @visitstockholm!</a><br/>Currently, the weather is: <b> °C, <i></i></b></br>Today, the sun rises at <b></b> and sets at <b></b>.</p>
+<p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/johannesburginyourpocket/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @johannesburginyourpocket!</a><br/>Currently, the weather is: <b> °C, <i></i></b></br>Today, the sun rises at <b></b> and sets at <b></b>.</p>
 
 <hr>
 
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Sunday, 5 September, 14:24 GMT+5:30<br />
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Sunday, 5 September, 14:30 GMT+5:30<br />
