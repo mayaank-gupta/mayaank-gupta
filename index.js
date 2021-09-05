@@ -19,32 +19,31 @@ let response = {
   }),
 };
 
-function setWeatherInformation() {
-  getWeatherInfo()
+async function setWeatherInformation() {
+  await getWeatherInfo()
     .then((data) => {
-      response.city_temperature = data.city_temperature;
-      response.city_weather = data.city_weather;
-      response.sun_rise = data.sun_rise;
-      response.sun_set = data.sun_set;
-      return;
+      response['city_temperature'] = data.city_temperature;
+      response['city_weather'] = data.city_weather;
+      response['sun_rise'] = data.sun_rise;
+      response['sun_set'] = data.sun_set;
+      return 1;
     })
     .catch((err) => {
       return err;
     })
 }
 
-
-
-async function setInstagramPosts() {
-  const instagramImages = await puppeteerService.getLatestInstagramPostsFromAccount('johannesburginyourpocket', 3);
-  response.img1 = instagramImages[0];
-  response.img2 = instagramImages[1];
-  response.img3 = instagramImages[2];
-}
+// async function setInstagramPosts() {
+//   const instagramImages = await puppeteerService.getLatestInstagramPostsFromAccount('johannesburginyourpocket', 3);
+//   response.img1 = instagramImages[0];
+//   response.img2 = instagramImages[1];
+//   response.img3 = instagramImages[2];
+// }
 
 async function generateReadMe() {
   await fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
     if (err) throw err;
+    console.log(response)
     const output = Mustache.render(data.toString(), response);
     fs.writeFileSync('README.md', output);
   });
@@ -59,7 +58,7 @@ async function action() {
   /**
    * Get pictures
    */
-  await setInstagramPosts();
+  // await setInstagramPosts();
 
   /**
    * Generate README
