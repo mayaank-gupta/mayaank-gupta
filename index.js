@@ -3,7 +3,7 @@ const Mustache = require('mustache');
 const fs = require('fs');
 const services = require('./services');
 const puppeteerService = services.puppeteerService;
-const getWeatherInfoService = services.getWeatherInfo;
+const getWeatherInfo = services.getWeatherInfo;
 
 const MUSTACHE_MAIN_DIR = './main.mustache';
 
@@ -22,7 +22,7 @@ let response = {
 };
 
 function setWeatherInformation() {
-  getWeatherInfoService()
+  getWeatherInfo()
     .then((data) => {
       finalObj = { ...response, ...data };
       return finalObj;
@@ -36,9 +36,9 @@ function setWeatherInformation() {
 
 async function setInstagramPosts() {
   const instagramImages = await puppeteerService.getLatestInstagramPostsFromAccount('johannesburginyourpocket', 3);
-  response.img1 = instagramImages[0];
-  response.img2 = instagramImages[1];
-  response.img3 = instagramImages[2];
+  finalObj.img1 = instagramImages[0];
+  finalObj.img2 = instagramImages[1];
+  finalObj.img3 = instagramImages[2];
 }
 
 async function generateReadMe() {
