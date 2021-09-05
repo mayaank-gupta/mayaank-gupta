@@ -1,3 +1,4 @@
+require('dotenv').config();
 const utilities = require('../utilities');
 const networkRequest = utilities.networkRequest;
 
