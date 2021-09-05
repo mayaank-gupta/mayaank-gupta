@@ -8,8 +8,20 @@ const getWeatherInfo = services.getWeatherInfo;
 
 const MUSTACHE_MAIN_DIR = './main.mustache';
 
+let response = {
+  refresh_date: new Date().toLocaleDateString('en-GB', {
+    weekday: 'long',
+    month: 'long',
+    day: 'numeric',
+    hour: 'numeric',
+    minute: 'numeric',
+    timeZoneName: 'short',
+    timeZone: 'Asia/Kolkata',
+  }),
+};
+
 async function generateReadMe(inputObj) {
-  await fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
+  fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
     if (err) throw err;
     const output = Mustache.render(data.toString(), inputObj);
     fs.writeFileSync('README.md', output);
@@ -17,18 +29,6 @@ async function generateReadMe(inputObj) {
 }
 
 async function action() {
-
-  let response = {
-    refresh_date: new Date().toLocaleDateString('en-GB', {
-      weekday: 'long',
-      month: 'long',
-      day: 'numeric',
-      hour: 'numeric',
-      minute: 'numeric',
-      timeZoneName: 'short',
-      timeZone: 'Asia/Kolkata',
-    }),
-  };
 
   let [error, data] = await utilities.safePromise(getWeatherInfo());
 
