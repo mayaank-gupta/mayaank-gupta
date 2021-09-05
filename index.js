@@ -7,8 +7,6 @@ const getWeatherInfo = services.getWeatherInfo;
 
 const MUSTACHE_MAIN_DIR = './main.mustache';
 
-let finalObj = {};
-
 let response = {
   refresh_date: new Date().toLocaleDateString('en-GB', {
     weekday: 'long',
@@ -24,8 +22,11 @@ let response = {
 function setWeatherInformation() {
   getWeatherInfo()
     .then((data) => {
-      finalObj = { ...response, ...data };
-      return finalObj;
+      response.city_temperature = data.city_temperature;
+      response.city_weather = data.city_weather;
+      response.sun_rise = data.sun_rise;
+      response.sun_set = data.sun_set;
+      return;
     })
     .catch((err) => {
       return err;
@@ -36,15 +37,15 @@ function setWeatherInformation() {
 
 async function setInstagramPosts() {
   const instagramImages = await puppeteerService.getLatestInstagramPostsFromAccount('johannesburginyourpocket', 3);
-  finalObj.img1 = instagramImages[0];
-  finalObj.img2 = instagramImages[1];
-  finalObj.img3 = instagramImages[2];
+  response.img1 = instagramImages[0];
+  response.img2 = instagramImages[1];
+  response.img3 = instagramImages[2];
 }
 
 async function generateReadMe() {
   await fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
     if (err) throw err;
-    const output = Mustache.render(data.toString(), finalObj);
+    const output = Mustache.render(data.toString(), response);
     fs.writeFileSync('README.md', output);
   });
 }
