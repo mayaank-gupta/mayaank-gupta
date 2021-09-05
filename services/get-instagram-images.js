@@ -52,6 +52,7 @@ class PuppeteerService {
     const page = `https://www.picuki.com/profile/${acc}`;
 
     await this.goToPage(page);
+    let previousHeight;
 
     try {
       previousHeight = await this.page.evaluate(`document.body.scrollHeight`);
