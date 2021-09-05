@@ -1,5 +1,6 @@
 require('dotenv').config();
 const Mustache = require('mustache');
+const axios = require('axios');
 const fs = require('fs');
 const services = require('./services');
 const utilities = require('./utilities');
@@ -22,12 +23,26 @@ let response = {
 
 async function setWeatherInformation() {
 
-  let [error, data] = await utilities.safePromise(getWeatherInfo());
+  const reqObj = {
+    url: `https://api.openweathermap.org/data/2.5/weather?q=Mumbai&units=metric&APPID=${process.env.WEATHER_API_KEY}`,
+    method: 'get'
+  };
 
-  response['city_temperature'] = data.city_temperature;
-  response['city_weather'] = data.city_weather;
-  response['sun_rise'] = data.sun_rise;
-  response['sun_set'] = data.sun_set;
+  await axios(reqObj)
+    .then(res => {
+      response['city_temperature'] = Math.round(res.data.main.temp);
+      response['city_weather'] = res.data.weather[0].description;
+      response['sun_rise'] = new Date(res.data.sys.sunrise * 1000).toLocaleString('en-GB', {
+        hour: '2-digit',
+        minute: '2-digit',
+        timeZone: 'Asia/Kolkata',
+      });
+      response['sun_set'] = new Date(res.data.sys.sunset * 1000).toLocaleString('en-GB', {
+        hour: '2-digit',
+        minute: '2-digit',
+        timeZone: 'Asia/Kolkata',
+      });
+    })
 }
 
 async function setInstagramPosts() {
