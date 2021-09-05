@@ -1,0 +1,34 @@
+{
+  "name": "mayaank-gupta",
+  "version": "1.0.0",
+  "description": "Backend for github actions, generate dynamic readme.md",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayaank-gupta/mayaank-gupta.git"
+  },
+  "keywords": [
+    "nodejs",
+    "puppeteer",
+    "readme.md",
+    "github",
+    "actions",
+    "dynamic",
+    "javascript"
+  ],
+  "author": "Mayank Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayaank-gupta/mayaank-gupta/issues"
+  },
+  "homepage": "https://github.com/mayaank-gupta/mayaank-gupta#readme",
+  "dependencies": {
+    "axios": "^0.21.3",
+    "dotenv": "^10.0.0",
+    "mustache": "^4.2.0",
+    "puppeteer": "^10.2.0"
+  }
+}
