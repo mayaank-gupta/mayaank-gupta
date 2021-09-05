@@ -6,7 +6,7 @@ module.exports = () => {
 
     const reqObj = {
       url: `https://api.openweathermap.org/data/2.5/weather?q=Mumbai&units=metric&APPID=${process.env.WEATHER_API_KEY}`,
-      method: 'GET'
+      method: 'get'
     };
 
     let [error, res] = await utilities.safePromise(networkRequest(reqObj));
