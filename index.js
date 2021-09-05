@@ -14,17 +14,12 @@ async function setInstagramPosts() {
 
 }
 
-function generateReadMe(response) {
-  return new Promise(async (resolve, reject) => {
-    fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
-      if (err) {
-        return reject(err);
-      };
-      const output = Mustache.render(data.toString(), response);
-      fs.writeFileSync('README.md', output);
-      return resolve(true);
-    });
-  })
+async function generateReadMe(valuesObj) {
+  await fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
+    if (err) throw err;
+    const output = Mustache.render(data.toString(), valuesObj);
+    fs.writeFileSync('README.md', output);
+  });
 }
 
 async function action() {
@@ -61,7 +56,7 @@ async function action() {
   /**
    * Generate README
    */
-  let [err, templateRes] = await utilities.safePromise(generateReadMe(response));
+  await generateReadMe(response);
 
   /**
    * Fermeture de la boutique 👋
