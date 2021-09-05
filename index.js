@@ -1,6 +1,5 @@
 require('dotenv').config();
 const Mustache = require('mustache');
-const axios = require('axios');
 const fs = require('fs');
 const fetch = require('node-fetch');
 const services = require('./services');
