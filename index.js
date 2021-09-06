@@ -39,7 +39,7 @@ async function action() {
    * Get pictures
    */
 
-  let imagesData = await puppeteerService.getLatestInstagramPostsFromAccount('johannesburginyourpocket', 3);
+  let imagesData = await puppeteerService.getLatestInstagramPostsFromAccount('pnt_mpg', 3);
 
   response['img1'] = imagesData[0];
   response['img2'] = imagesData[1];
