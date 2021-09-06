@@ -15,5 +15,5 @@ module.exports = (reqObj) => {
         return reject(err);
       })
 
-  })
+  });
 }

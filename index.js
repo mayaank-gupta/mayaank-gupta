@@ -1,8 +1,6 @@
-require('dotenv').config();
 const Mustache = require('mustache');
 const fs = require('fs');
 const services = require('./services');
-const utilities = require('./utilities');
 const puppeteerService = services.puppeteerService;
 const getCryptoPrices = services.getCryptoPrices;
 
