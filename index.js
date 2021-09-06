@@ -4,16 +4,15 @@ const fs = require('fs');
 const services = require('./services');
 const utilities = require('./utilities');
 const puppeteerService = services.puppeteerService;
-const getWeatherInfo = services.getWeatherInfo;
+const getCryptoPrices = services.getCryptoPrices;
 
 const MUSTACHE_MAIN_DIR = './main.mustache';
 
-function generateReadMe(valuesObj) {
-  fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
+async function generateReadMe(valuesObj) {
+  await fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
     if (err) throw err;
     const output = Mustache.render(data.toString(), valuesObj);
     fs.writeFileSync('README.md', output);
-    return 1;
   });
 }
 
@@ -31,12 +30,11 @@ async function action() {
     }),
   };
 
-  let [error, data] = await utilities.safePromise(getWeatherInfo());
+  let [error, data] = await utilities.safePromise(getCryptoPrices());
 
-  response['city_temperature'] = data.city_temperature;
-  response['city_weather'] = data.city_weather;
-  response['sun_rise'] = data.sun_rise;
-  response['sun_set'] = data.sun_set;
+  response['bitcoin_price'] = data.find(o => o.id === 'bitcoin').current_price;
+  response['ethereum_price'] = data.find(o => o.id === 'ethereum').current_price;
+  response['dogecoin_price'] = data.find(o => o.id === 'dogecoin').current_price;
 
   /**
    * Get pictures

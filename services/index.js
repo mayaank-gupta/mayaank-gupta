@@ -1,7 +1,7 @@
 const puppeteerService = require('./get-instagram-images');
-const getWeatherInfo = require('./get-weather-info');
+const getCryptoPrices = require('./get-crypto-currency');
 
 module.exports = {
   puppeteerService: puppeteerService,
-  getWeatherInfo: getWeatherInfo
+  getCryptoPrices: getCryptoPrices
 }
