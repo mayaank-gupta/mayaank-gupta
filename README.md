@@ -62,11 +62,11 @@
 
 <p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/johannesburginyourpocket/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @johannesburginyourpocket!</a><br/>
 Crypto Tracker:<br>  
-<b>Bitcoin</b>: <b> $51546<br> 
-<b>Ethereum</b>: <b> $3913.25 <br>
-<b>DogeCoin</b>: <b> $0.310361 </b>
+<b>Bitcoin</b>: <b> $51740<br> 
+<b>Ethereum</b>: <b> $3935.67 <br>
+<b>DogeCoin</b>: <b> $0.311017 </b>
 </p>
 
 <hr>
 
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday, September 6, 9:14 AM GMT+5:30<br />
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday, September 6, 11:54 AM GMT+5:30<br />
