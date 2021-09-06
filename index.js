@@ -1,5 +1,6 @@
 const Mustache = require('mustache');
 const fs = require('fs');
+const utilities = require('./utilities');
 const services = require('./services');
 const puppeteerService = services.puppeteerService;
 const getCryptoPrices = services.getCryptoPrices;
@@ -34,6 +35,7 @@ async function action() {
   response['ethereum_price'] = data.find(o => o.id === 'ethereum').current_price;
   response['dogecoin_price'] = data.find(o => o.id === 'dogecoin').current_price;
 
+  console.log(response)
   /**
    * Get pictures
    */
