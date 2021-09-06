@@ -47,8 +47,8 @@
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="Nginx" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />
 <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Jenkins" width="40px" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" />  
-<br><br><br><br></p>  
+<img align="left" alt="Jenkins" width="40px" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" /></p> 
+<br><br><br><br>  
 
 <hr>
 
@@ -61,8 +61,12 @@
 </p>
 
 <p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/johannesburginyourpocket/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @johannesburginyourpocket!</a><br/>
-Currently, the <b>Bitcoin</b> is trading at: <b> $51654, <b>Ethereum</b>: <b> $3924.2, <b>DogeCoin</b>: <b> $0.311667.</p>
+Crypto Tracker:<br>  
+<b>Bitcoin</b>: <b> $51546<br> 
+<b>Ethereum</b>: <b> $3913.25 <br>
+<b>DogeCoin</b>: <b> $0.310361 </b>
+</p>
 
 <hr>
 
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday, September 6, 9:07 AM GMT+5:30<br />
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday, September 6, 9:14 AM GMT+5:30<br />
