@@ -56,18 +56,18 @@
 <h3>Auto Updation!</h3>
 
 <p>
-<img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.flwo4-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C240782509_4620236321328301_170552949196169085_n.jpg%3F_nc_ht%3Dinstagram.flwo4-1.fna.fbcdn.net%26_nc_cat%3D101%26_nc_ohc%3DPqQ2MflZC7sAX--HtY4%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D5705fc670d17991013a40693557f5532%26oe%3D61A88F9C%26_nc_sid%3D7bff83" /> 
-<img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.flwo4-2.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C240576942_1167856210406900_3256834858562416817_n.jpg%3F_nc_ht%3Dinstagram.flwo4-2.fna.fbcdn.net%26_nc_cat%3D108%26_nc_ohc%3DNljb7NArJfAAX-iGXbk%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D32bf300ab9f1302def16afa2ca4dc3be%26oe%3D61A8E982%26_nc_sid%3D7bff83" />
-<img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.flwo4-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C240645324_842406946668187_5079060731928090799_n.jpg%3F_nc_ht%3Dinstagram.flwo4-1.fna.fbcdn.net%26_nc_cat%3D107%26_nc_ohc%3D70JkabRtDeIAX_Chzfx%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D7b0bf2d960160f6a4b110d4239eca274%26oe%3D61A9C001%26_nc_sid%3D7bff83" />
+<img width="200" src="" /> 
+<img width="200" src="" />
+<img width="200" src="" />
 </p>
 
 <p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/pnt_mpg/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @pnt_mpg!</a><br/>
 Crypto Tracker:<br>  
-<b>Bitcoin</b>: <b> $54522<br> 
-<b>Ethereum</b>: <b> $4102.87 <br>
-<b>DogeCoin</b>: <b> $0.200401 </b>
+<b>Bitcoin</b>: <b> $57352<br> 
+<b>Ethereum</b>: <b> $4321.1 <br>
+<b>DogeCoin</b>: <b> $0.205098 </b>
 </p>
 
 <hr>
 
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Sunday, November 28, 6:02 PM GMT+5:30<br />
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday, November 29, 8:52 AM GMT+5:30<br />
