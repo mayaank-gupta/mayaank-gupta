@@ -56,18 +56,18 @@
 <h3>Auto Updation!</h3>
 
 <p>
-<img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.fdnk3-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C240782509_4620236321328301_170552949196169085_n.jpg%3F_nc_ht%3Dinstagram.fdnk3-1.fna.fbcdn.net%26_nc_cat%3D101%26_nc_ohc%3Ds16OxEfWWIEAX_bG-vr%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D00_AT9Ldy12pu9rIGFouAgFGCZCfZz4_fQLAuKn5HvfbOxIfw%26oe%3D62077B9C%26_nc_sid%3D7bff83" /> 
-<img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.fdnk3-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C240576942_1167856210406900_3256834858562416817_n.jpg%3F_nc_ht%3Dinstagram.fdnk3-1.fna.fbcdn.net%26_nc_cat%3D108%26_nc_ohc%3DFXXROFqU1EkAX8M6fRD%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D00_AT_znbtNWWKfQ2idsssC54BWr32SLc_gv7LrFqZkELLCoQ%26oe%3D6207D582%26_nc_sid%3D7bff83" />
-<img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.fdnk3-2.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C240645324_842406946668187_5079060731928090799_n.jpg%3F_nc_ht%3Dinstagram.fdnk3-2.fna.fbcdn.net%26_nc_cat%3D107%26_nc_ohc%3DLMlDHcfFxukAX-Y5NKn%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D00_AT-gFSJFGj1S2hJLkHghJYKD0sZsxUaSKOFNHM1gOdF7gQ%26oe%3D6206B1C1%26_nc_sid%3D7bff83" />
+<img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cscontent-hel3-1.cdninstagram.com%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C240782509_4620236321328301_170552949196169085_n.jpg%3F_nc_ht%3Dscontent-hel3-1.cdninstagram.com%26_nc_cat%3D101%26_nc_ohc%3DFLOtPzP4dIsAX_Ld4cY%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D00_AT-2Plpz6zgxANBvFd5VcKsAJT_fWyrVJUb4_7jJcWz0Tg%26oe%3D620975DC%26_nc_sid%3D7bff83" /> 
+<img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cscontent-hel3-1.cdninstagram.com%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C240576942_1167856210406900_3256834858562416817_n.jpg%3F_nc_ht%3Dscontent-hel3-1.cdninstagram.com%26_nc_cat%3D108%26_nc_ohc%3DFXXROFqU1EkAX-G6M9s%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D00_AT-S5gCfPrO5w-Y7CXh6Qot53aLf-Q9_cS62bFdZI3XdTA%26oe%3D6207D582%26_nc_sid%3D7bff83" />
+<img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cscontent-hel3-1.cdninstagram.com%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C240645324_842406946668187_5079060731928090799_n.jpg%3F_nc_ht%3Dscontent-hel3-1.cdninstagram.com%26_nc_cat%3D107%26_nc_ohc%3D3aryrnzDRo8AX8r-LFp%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D00_AT-ytDhZxFVoSJqBa3cFKJBguHAm5iob2iFtD3M5Rh413g%26oe%3D6208AC01%26_nc_sid%3D7bff83" />
 </p>
 
 <p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/pnt_mpg/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @pnt_mpg!</a><br/>
 Crypto Tracker:<br>  
-<b>Bitcoin</b>: <b> $43393<br> 
-<b>Ethereum</b>: <b> $3113.74 <br>
-<b>DogeCoin</b>: <b> $0.159846 </b>
+<b>Bitcoin</b>: <b> $43972<br> 
+<b>Ethereum</b>: <b> $3139.08 <br>
+<b>DogeCoin</b>: <b> $0.164714 </b>
 </p>
 
 <hr>
 
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday, February 7, 8:50 PM GMT+5:30<br />
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Tuesday, February 8, 6:43 AM GMT+5:30<br />
