@@ -56,18 +56,18 @@
 <h3>Auto Updation!</h3>
 
 <p>
-<img width="200" src="https:&#x2F;&#x2F;cdn1.picuki.com&#x2F;hosted-by-instagram&#x2F;q&#x3D;0exhNuNYnjBGZDHIdN5WmL9I2Pk2GAlRNecaS7j0nyZiNxIsbHWB58ltwdGn%7C%7CDh6Kwh9HS+LP2dg+osjTghTDk05OkHfAbKMTCBW6q2fXO2n0zwJ8JFjlL03K3YdZHWt%7C%7C8AsVQnHbHJNS6tJW%7C%7CKkp+0W%7C%7CvLuZDNq+C3IdONN9zhRjsuwBat72YUh5bCGjQXj55M+cHAbvG0vJQcuoN7epHQEWeC2DcB3mqJ2Uupd2pZD1OHtpCqwEjAMV0FqJyqv7o%7C%7CojM873A3QcRAfvWSjSvQaDUoa0Xi8lTcQk61oi4agadogjbg3uf2HHFkmazR+gyFqr7masjPHTWi5xmFo9kT%7C%7CwbyTe9l2t4Cjc8CSbPXK%7C%7CDD2S4LbHJ19G3UKXaqEA32LcKSVQfdXlbRcFfwTgFyz9l7u" /> 
-<img width="200" src="https:&#x2F;&#x2F;cdn1.picuki.com&#x2F;hosted-by-instagram&#x2F;q&#x3D;0exhNuNYnjBGZDHIdN5WmL9I2Pk2GAlRNucaS7j0nyZiNxIsbHWB58ltwdGn%7C%7CDh6Kwh9HS+LP2dg+osjTghTDk05OkHfAbKMTCBW6q2dU+mr1zcJ9ZZnk7cxK3ceZXKv8cosVAnFaXdORqpEV%7C%7C6tq+0V%7C%7CProZDcCyW2MbvQVlwlcsvysTP98xII046WVgUar7YgmK2kHoCUnKkhmpN%7C%7CZrjREUvHkdPF6pp50R6NR25ddrdDgmBq3GW53UmwnQh2XsbruivkivXvefSYf0ieiQ6RmDm4YhQWWsDQQk60PzoahNtA6lKp+vqiKHDY4flgz9yNNwp2ttjWVclGx6lEfkzj60LmGdfMop4TfKMSpffHB2insWIv8P7FubDwABaGAAQ%7C%7C+A9TmVY5mmIhwD%7C%7CFKigm39gDlJw&#x3D;&#x3D;" />
-<img width="200" src="https:&#x2F;&#x2F;cdn1.picuki.com&#x2F;hosted-by-instagram&#x2F;q&#x3D;0exhNuNYnjBGZDHIdN5WmL9I2Pk2GAlRNecaS7j0nyZiNxIsbHWB58ltwdGn%7C%7CDh6Kwh9HS+LP2dg+osjTghTDk05OkHfAbKMTCBW6q2eUOqh0TEJ%7C%7CJNjkL8yJHEZY3Cn9ssrO2PGbHtISKlHXPqsrOMX8fvpZT9q+C3IdONN9zhRjsuwBat72YUh5bCGjQXj55M+cHAbvG0vJQcuoN7epHQEWeC2DcB3mqJ2Uupd2pBD1OHtpCqwEjB5enxnBT6FnrnOx8873CrpfxQcvWSjSvQaDUoa0Xi8lTcQk61oi4agadogjbg3uf2HHFkmayE5tTh9k8XlwQSeRlb+7m5twDaGyOqLfNsCrIP1BNesccHh5zLMS5L3IaNtG3UKXaqEA379dqHnQfdXlbRcFfwTgFyz9l7u" />
+<img width="200" src="https:&#x2F;&#x2F;cdn1.picuki.com&#x2F;hosted-by-instagram&#x2F;q&#x3D;0exhNuNYnjBGZDHIdN5WmL9I2PwkAQ9OKftSQ7e71yJjMBhsLH6QvJA0mpCj4yRwKwVlASuRY3w45JUrWUIFCFdlf0PbSfyOSD9L7KmYU+eg1jVvm5Nnlr82LnMcZ3es9csvVGepanVIS6xCVv+sr+IR+f3nbD4AyW2MbvQVlwlcsvysTP98xII046WVgUar7Y00Mm8YvzlvIkcp7NvYqT4EEvr1JohLq6JIRbYY15ZVuqnRlSaHHmUpJktTGzTOt9iUr8gQpBuxRzBtqjjhQq02cm08h1HrmhETk60PqcOhN48wjrNs96%7C%7CfETZXYE1fmEc4mra6znX9V0+RyBt++ljrzJuJS9w8pLf6db6UU+++yyPkYZDQNoFEUktJD%7C%7CmLBQ2MBKOXUusfqYVMI+tH0wPi8gC7LOM&#x3D;" /> 
+<img width="200" src="https:&#x2F;&#x2F;cdn1.picuki.com&#x2F;hosted-by-instagram&#x2F;q&#x3D;0exhNuNYnjBGZDHIdN5WmL9I2PwkAQ9OKfhSQ7e71yJjMBhsLH6QvJA0mpCj4yRwKwVlASuRY3w45JUrWUIFCFdlf0PbSfyOSD9L7KmYUeik2jFkm5Zgkrg8KHMdZHar98UlVGapaHBNSKFDW%7C%7COgpu4R+v%7C%7Cvaj4EoVzMKu4Cz2ltv8CbULYow58z9qOAkkropYI4ISsYoCZwak8mo5PcqDkOUrr+N9oymq90ebQNnppUu7eopCu7LmIieDNsRATNjpHtqsUutALQLS8q3mjxAaw%7C%7CIhE%7C%7Co1O%7C%7C5zs2kK0PqaTkN45vhKl15ebYRDtXD1NKk1lMnpblmAXmX2P+zEhojjbJ1eO%7C%7CetMn9JfCAsSIUsO%7C%7CwhDxN4LrMKFhCy8IRvPTDgmOcNGVU5wL0LRBH8dd3lropwS7cuin" />
+<img width="200" src="https:&#x2F;&#x2F;cdn1.picuki.com&#x2F;hosted-by-instagram&#x2F;q&#x3D;0exhNuNYnjBGZDHIdN5WmL9I2PwkAQ9OKftSQ7e71yJjMBhsLH6QvJA0mpCj4yRwKwVlASuRY3w45JUrWUIFCFdlf0PbSfyOSD9L7KmYUuun0Ddim59llrs0K3wbY3Cp%7C%7C8IkUwnDa3VBTq9AWPikp+kf+PLuaz8MyW2MbvQVlwlcsvysTP98xII046WVgUar7Y00Mm8YvzlvIkcp7NvYqT4EEvr1JohLq6JIRbYY15ZVvKnRlSaHHmUpJmwoHiGX99rsh8ZXpBuwXmcQ4lDhQq02cm08h1HrmhETk60PqcOhN48wjrNs96%7C%7CfETZXYE1f%7C%7CwVtxMCJxSz4XlWR8UREmmfc4aOaJtkgj8KhA%7C%7CaPZdHInAKRS5zGI64BW31JD%7C%7CmLBQ2MA9TmX5kfqYVMI+tH0wPi8gC7LOM&#x3D;" />
 </p>
 
 <p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/pnt_mpg/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @pnt_mpg!</a><br/>
 Crypto Tracker:<br>  
-<b>Bitcoin</b>: <b> $43237<br> 
-<b>Ethereum</b>: <b> $3065.06 <br>
-<b>DogeCoin</b>: <b> $0.152307 </b>
+<b>Bitcoin</b>: <b> $43174<br> 
+<b>Ethereum</b>: <b> $3071.96 <br>
+<b>DogeCoin</b>: <b> $0.152085 </b>
 </p>
 
 <hr>
 
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, February 11, 8:50 AM GMT+5:30<br />
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, February 11, 11:55 AM GMT+5:30<br />
