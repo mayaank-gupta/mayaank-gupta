@@ -56,18 +56,18 @@
 <h3>Auto Updation!</h3>
 
 <p>
-<img width="200" src="https:&#x2F;&#x2F;cdn1.picuki.com&#x2F;hosted-by-instagram&#x2F;q&#x3D;0exhNuNYnjBGZDHIdN5WmL9I2Pk2GAlRNecaS7j0nyZiNxIsbHWB58ltwdGn%7C%7CDh6Kwh9HS+LP2dg+osjTghTDk05OkHfAbKMTCBW6q2fXO2n0zwJ8JFjlL03K3YdZHWt%7C%7C8AsVQnHbHJNS6tJW%7C%7CKkp+0W%7C%7CvLuZDNq+C3IdONN9zhRjsuwBat72YUh5bCGjQXj55M+cHAbvG0vJQcuoN7epHQEWeC2DcB3mqJ2Uupd2pZD1OHtpCqwEjAPVmJ6Rj3M77vnjM873BH%7C%7CUQ0RvWSjSvQaDUoa0Xi8lTcQk61oi4agadogjbg3uf2HHFkmayFAoi1EppC2xSTjcUOE2md22zLSyJKhXNICtZ3%7C%7CfOaJUY3F2DXxN+DYFYNbG3UKXaqEA3mKdKyVQfdXlbRcFfwTgFyz9l7u" /> 
-<img width="200" src="https:&#x2F;&#x2F;cdn1.picuki.com&#x2F;hosted-by-instagram&#x2F;q&#x3D;0exhNuNYnjBGZDHIdN5WmL9I2Pk2GAlRNucaS7j0nyZiNxIsbHWB58ltwdGn%7C%7CDh6Kwh9HS+LP2dg+osjTghTDk05OkHfAbKMTCBW6q2dU+mr1zcJ9ZZnk7cxK3ceZXKv8cosVAnFaXdORqpEV%7C%7C6tq+0V%7C%7CProZDcCyW2MbvQVlwlcsvysTP98xII046WVgUar7YgmK2kHoCUnKkhmpN%7C%7CZrjREUvHkdPF6pp50R6NR25ddrdDgmBq3GW53aT1KRQSFlr7qst8ivW7jTRMZrSeiQ6RmDm4YhQWWsDQQk60PzoahNtA6lKp+vqiKHDY4flgzlxZtt4TwxHLgRi2IjmlD%7C%7CE3695+ycN8SgoLfKfiRefXaySrGRYjONYpDbDwABaGAAQ%7C%7C6AtDuVY5mmIhwD%7C%7CFKigm39gDlJw&#x3D;&#x3D;" />
-<img width="200" src="https:&#x2F;&#x2F;cdn1.picuki.com&#x2F;hosted-by-instagram&#x2F;q&#x3D;0exhNuNYnjBGZDHIdN5WmL9I2Pk2GAlRNecaS7j0nyZiNxIsbHWB58ltwdGn%7C%7CDh6Kwh9HS+LP2dg+osjTghTDk05OkHfAbKMTCBW6q2eUOqh0TEJ%7C%7CJNjkL8yJHEZY3Cn9ssrO2PGbHtISKlHXPqsrOMX8fvpZT9q+C3IdONN9zhRjsuwBat72YUh5bCGjQXj55M+cHAbvG0vJQcuoN7epHQEWeC2DcB3mqJ2Uupd2pBD1OHtpCqwEjATdFp2JgentbnVus87yALnViBovWSjSvQaDUoa0Xi8lTcQk61oi4agadogjbg3uf2HHFkmayF8lEJqr7CtrzGAJTb57kBe5GHmzpyXcO81oqGiKcmXUpa7mgrrYeHzQOxtG3UKXaqEAg+FdaXnQfdXlbRcFfwTgFyz9l7u" />
+<img width="200" src="https:&#x2F;&#x2F;cdn1.picuki.com&#x2F;hosted-by-instagram&#x2F;q&#x3D;0exhNuNYnjBGZDHIdN5WmL9I2PwkAQ9OKftSQ7e71yJjMBhsLH6QvJA0mpCj4yRwKwVlASuRY3w45JUrWUIFCFdlf0PbSfyOSD9L7KmYU+eg1jVvm5Nnlr82LnMcZ3es9csvVGepanVIS6xCVv+sr+IR+f3nbD4AyW2MbvQVlwlcsvysTP98xII046WVgUar7Y00Mm8YvzlvIkcp7NvYqT4EEvr1JohLq6JIRbYY15ZVuqnRlSaHHmUpJmNbAX2og8bFmsUMpBuxYSIO4WrhQq02cm08h1HrmhETk60PqcOhN48wjrNs96%7C%7CfETZXYE1fmBt3u7+ulhnoWjG7jxRZ1Vj964y7ddg+ipD6At2oQ%7C%7Cfa6SvxZquGN+hETH1JD%7C%7CmLBQ2NcaCTI+sfqYVMI+tH0wPi8gC7LOM&#x3D;" /> 
+<img width="200" src="https:&#x2F;&#x2F;cdn1.picuki.com&#x2F;hosted-by-instagram&#x2F;q&#x3D;0exhNuNYnjBGZDHIdN5WmL9I2PwkAQ9OKfhSQ7e71yJjMBhsLH6QvJA0mpCj4yRwKwVlASuRY3w45JUrWUIFCFdlf0PbSfyOSD9L7KmYUeik2jFkm5Zgkrg8KHMdZHar98UlVGapaHBNSKFDW%7C%7COgpu4R+v%7C%7Cvaj4EoVzMKu4Cz2ltv8CbULYow58z9qOAkkropYI4ISsYoCZwak8mo5PcqDkOUrr+N9oymq90ebQNnppUu7eopCu7LmIieDN%7C%7CISfGhdrjmuk8pALQLDsb+HO+Aaw%7C%7CIhE%7C%7Co1O%7C%7C5zs2kK0PqaTkN45vhKl15ebYRDtXD1NKk0w9yZOPkXvsanaIzksAwi35zp2lYMcpjL%7C%7CBK+vPedak3XHyR47nFrF9ViMuRvPTDgmOcaSUX+sL0LRBH8dd3lropwS7cuin" />
+<img width="200" src="https:&#x2F;&#x2F;cdn1.picuki.com&#x2F;hosted-by-instagram&#x2F;q&#x3D;0exhNuNYnjBGZDHIdN5WmL9I2PwkAQ9OKftSQ7e71yJjMBhsLH6QvJA0mpCj4yRwKwVlASuRY3w45JUrWUIFCFdlf0PbSfyOSD9L7KmYUuun0Ddim59llrs0K3wbY3Cp%7C%7C8IkUwnDa3VBTq9AWPikp+kf+PLuaz8MyW2MbvQVlwlcsvysTP98xII046WVgUar7Y00Mm8YvzlvIkcp7NvYqT4EEvr1JohLq6JIRbYY15ZVvKnRlSaHHmUpJldxIziujbPOrfompBulTjZpyTnhQq02cm08h1HrmhETk60PqcOhN48wjrNs96%7C%7CfETZXYE1f6jhfpMW%7C%7ClCXhT1OW1g5L8DDglrKweuwrqbzHMauFQ%7C%7Cn4mjnxQ7ryF+htSEtJD%7C%7CmLBQ2NcKzjV5kfqYVMI+tH0wPi8gC7LOM&#x3D;" />
 </p>
 
 <p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/pnt_mpg/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @pnt_mpg!</a><br/>
 Crypto Tracker:<br>  
-<b>Bitcoin</b>: <b> $42134<br> 
-<b>Ethereum</b>: <b> $2864.5 <br>
-<b>DogeCoin</b>: <b> $0.144119 </b>
+<b>Bitcoin</b>: <b> $42146<br> 
+<b>Ethereum</b>: <b> $2871.27 <br>
+<b>DogeCoin</b>: <b> $0.144441 </b>
 </p>
 
 <hr>
 
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday, February 14, 2:49 PM GMT+5:30<br />
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday, February 14, 6:02 PM GMT+5:30<br />
