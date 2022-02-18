@@ -56,18 +56,18 @@
 <h3>Auto Updation!</h3>
 
 <p>
-<img width="200" src="https:&#x2F;&#x2F;cdn1.picuki.com&#x2F;hosted-by-instagram&#x2F;q&#x3D;0exhNuNYnjBcaS3SYdxKjf8fx+9wWgxSZ60STLepjSVmIR1vLHOapZA0mpCj4yRwKwVlASuRY3w45JUrWUIFCFdlf0PbSfyOSD9L7KmYU+eg1jVvm5Nnlr82LnMcZ3es9csvVGepanVIS6xCVv+sr+IR+f3nbD4AyW2MbvQVlwlcsvysTP9myZ4u9qeJlAb88p5gaWwE8W8vLUc7ttzduDsHEvf%7C%7CP4hLq6JIRbYY15ZVuqnRlSaHHmUpJllKRBqat4zuy+g6pBvXSztprFHhQq02cm08h1HrmhETk60PqcOhN48wjrNs96%7C%7CfETZXYE1f%7C%7Cz59kb65lhvsMGOW2Rd403rC2riSRPgDsaL0dKvFR%7C%7CrcmCPnTJfxQLFrXFtJD%7C%7CmLBQ2NdaDlUusfqYVMI+tH0wPi8gC7LOM&#x3D;" /> 
-<img width="200" src="https:&#x2F;&#x2F;cdn1.picuki.com&#x2F;hosted-by-instagram&#x2F;q&#x3D;0exhNuNYnjBcaS3SYdxKjf8fx+9wWgxSZ60STLepjSVmIR1vLHOapZA0mpCj4yRwKwVlASuRY3w45JUrWUIFCFdlf0PbSfyOSD9L7KmYUeik2jFkm5Zgkrg8KHMdZHar98UlVGapaHBNSKFDW%7C%7COgpu4R+v%7C%7Cvaj4EoVzMKu4Cz2ltv8CbULYo2ZIv7LaCjl+o8p0rdXAbvGglKkAmscnbrSgLUbrzPcMymq90ebQNnppUu7eopCu7LmIieDMqNjeYlrHRzsEVhgLQOTYt62apAaw%7C%7CIhE%7C%7Co1O%7C%7C5zs2kK0PqaTkN45vhKl15ebYRDtXD1NKk1kjmL6JnBXaRVnw6RB4l0f39uHiYv8Vl73zKcOUe8Lu1CzBeqbMR4FobCkIRvPTDgmOcaCXI5wL0LRBH8dd3lropwS7cuin" />
-<img width="200" src="https:&#x2F;&#x2F;cdn1.picuki.com&#x2F;hosted-by-instagram&#x2F;q&#x3D;0exhNuNYnjBcaS3SYdxKjf8fx+9wWgxSZ60STLepjSVmIR1vLHOapZA0mpCj4yRwKwVlASuRYz1k5I0vVF5SDz1yOEfbSbKBSDlS6KWZXOjN1jVh%7C%7CZdnlLg3LHwdbXam98QlXQmYdSgIGaYDG7uo+qhT5aGuO1lQpTb9d7JGmC4E5ZObS6olhMF4pJ2Jg3Tt%7C%7C9kiJzJE5m4vMAQxu8eL52tEX%7C%7CD+O8BnsaBwVLYBxMQK5qnRlSaHEmw+Jj8uQHagtIj+kOYA2DvRdhIBz0yrEZAsDnRTgGy3s0V3t4gj1aSAMok99PkakIH2bSAEXG428Fk61pu1ynOdV0Gdh2R1zkXby4PmfdUgqqXyKqCFeNC+wXnjf4XEJY10DVQ9A%7C%7CndQlOKDvmeNN8fmY4SSqofgguUpCf7S7734wB4AGgdgTKNVME&#x3D;" />
+<img width="200" src="https:&#x2F;&#x2F;cdn1.picuki.com&#x2F;hosted-by-instagram&#x2F;q&#x3D;0exhNuNYnjBcaS3SYdxKjf8R3+JwWgxSZ60STLepjSVmIR1vLHOapZA0mpCj4yRwKwVlASuRY3w45JUrWUIFCFdlf0PbSfyOSD9L7KmYU+eg1jVvm5Nnlr82LnMcZ3es9csvVGepanVIS6xCVv+sr+IR+f3nbD4AyW2MbvQVlwlcsvysTP9myZ4u9qeJlAby6pNgaWwE8W8vLUc7ttzduDsHEvf%7C%7CP4hLq6JIRbYY15ZVuqnRlSaHHmUpJllKRBqat4zuy+g6pBuwXSUWqULhQq02cm08h1HrmhETk60PqcOhN48wjrNs96%7C%7CfETZXYE1f%7C%7C0N4pZWPkxzCRVK7h1t+8zf59YLmJOgK8r%7C%7CoLtqaRPm8+gzmeef7OqF6cm1JD%7C%7CmLBQ2Nd6GSXusfqYVMI+tH0wPi8gC7LOM&#x3D;" /> 
+<img width="200" src="https:&#x2F;&#x2F;cdn1.picuki.com&#x2F;hosted-by-instagram&#x2F;q&#x3D;0exhNuNYnjBcaS3SYdxKjf8R3+JwWgxSZ60STLepjSVmIR1vLHOapZA0mpCj4yRwKwVlASuRY3w45JUrWUIFCFdlf0PbSfyOSD9L7KmYUeik2jFkm5Zgkrg8KHMdZHar98UlVGapaHBNSKFDW%7C%7COgpu4R+v%7C%7Cvaj4EoVzMKu4Cz2ltv8CbULYo2ZIv7LaCjl+o%7C%7CIUmdXAbvGglKkAmscnbrSgLUbrzPcMymq90ebQNnppUu7eopCu7LmIieDMqNjeYlrHRzsEVhgLQLSQh9HKNAaw%7C%7CIhE%7C%7Co1O%7C%7C5zs2kK0PqaTkN45vhKl15ebYRDtXD1NKk01bmoKYpQDAO3OG50Rzy3Drkf6oca8Hs63CDvatB+j+1nOUP73EIppdZy8YRvPTDgmOcaKXUJAL0LRBH8dd3lropwS7cuin" />
+<img width="200" src="https:&#x2F;&#x2F;cdn1.picuki.com&#x2F;hosted-by-instagram&#x2F;q&#x3D;0exhNuNYnjBcaS3SYdxKjf8R3+JwWgxSZ60STLepjSVmIR1vLHOapZA0mpCj4yRwKwVlASuRYz1k5I0vVF5SDz1yOEfbSbKBSDlS6KWZXOjN1jVh%7C%7CZdnlLg3LHwdbXam98QlXQmYdSgIGaYDG7uo+qhT5aGuO1lQpTb9d7JGmC4E5ZObS6olhMF4pJ2Jg3Tt%7C%7C9kiJzJE5m4vMAQ%7C%7Co8qL52tEX%7C%7CD+O8BnsaBwVLYBxMQK5qnRlSaHEmw+Jj8uQHagtIj+kOYA2DvRdhIBz0yrEZAsDnRHi0SLggN3t4gj1aSAMok99PkakIH2bSAEXG428Fk61pu1ynOdV0GdhkAKlFLeleuaWOx3vKPGKdSWYvXdzTnCfYbvPp9Efmk8OfLhdwfmcaCYD+kfmY4SSqofgAvhqCf7S7734wB4AGgdgTKNVME&#x3D;" />
 </p>
 
 <p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/pnt_mpg/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @pnt_mpg!</a><br/>
 Crypto Tracker:<br>  
-<b>Bitcoin</b>: <b> $40604<br> 
-<b>Ethereum</b>: <b> $2854.56 <br>
-<b>DogeCoin</b>: <b> $0.139977 </b>
+<b>Bitcoin</b>: <b> $40007<br> 
+<b>Ethereum</b>: <b> $2766.4 <br>
+<b>DogeCoin</b>: <b> $0.137914 </b>
 </p>
 
 <hr>
 
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, February 18, 8:52 PM GMT+5:30<br />
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, February 18, 11:54 PM GMT+5:30<br />
