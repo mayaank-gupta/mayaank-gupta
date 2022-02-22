@@ -56,18 +56,18 @@
 <h3>Auto Updation!</h3>
 
 <p>
-<img width="200" src="https:&#x2F;&#x2F;cdn1.picuki.com&#x2F;hosted-by-instagram&#x2F;q&#x3D;0exhNuNYnjBGZDHIdN5WmL9I2Pk2GAlRNecaS7j0nyZiNxIsbHWB58ltwdGn%7C%7CDh6Kwh9HS+LP2dg+osjTghTDk05OkHfAbKMTCBW6q2fXO2n0zwJ8JFjlL03K3YdZHWt%7C%7C8AsVQnHbHJNS6tJW%7C%7CKkp+0W%7C%7CvLuZDNq+C3IdONN9zhRjsuwBat72YUh5bCGjQXj55M+cHAbvG0vJQcuoN7epHQEWeC2DcB3mqJ2Uupd2pZD1OHtpCqwEjAPVGFHJjfKtrjPiM873RfHeDQPvWSjSvQaDUoa0Xi8lTcQk61oi4agadogjbg3uf2HHFkmazVhihJnu6vrnyjpUDH92GVt0l%7C%7CHx77kd9Me8rChEemcZuzuySDGYbrSPe5LG3UKXaqEAgaId9GVQfdXlbRcFfwTgFyz9l7u" /> 
-<img width="200" src="https:&#x2F;&#x2F;cdn1.picuki.com&#x2F;hosted-by-instagram&#x2F;q&#x3D;0exhNuNYnjBGZDHIdN5WmL9I2Pk2GAlRNucaS7j0nyZiNxIsbHWB58ltwdGn%7C%7CDh6Kwh9HS+LP2dg+osjTghTDk05OkHfAbKMTCBW6q2dU+mr1zcJ9ZZnk7cxK3ceZXKv8cosVAnFaXdORqpEV%7C%7C6tq+0V%7C%7CProZDcCyW2MbvQVlwlcsvysTP98xII046WVgUar7YgmK2kHoCUnKkhmpN%7C%7CZrjREUvHkdPF6pp50R6NR25ddrdDgmBq3GW53Un51IhyKsIDpjvkivXuwWS0v+ieiQ6RmDm4YhQWWsDQQk60PzoahNtA6lKp+vqiKHDY4flgzgSBplIfqr3HZXVnk2ldBm0TUwJ+UY+R+npDfKfWXAN%7C%7CflAb5frD1HLxWbDwABaGAAQ6FAaSVVY5mmIhwD%7C%7CFKigm39gDlJw&#x3D;&#x3D;" />
-<img width="200" src="https:&#x2F;&#x2F;cdn1.picuki.com&#x2F;hosted-by-instagram&#x2F;q&#x3D;0exhNuNYnjBGZDHIdN5WmL9I2Pk2GAlRNecaS7j0nyZiNxIsbHWB58ltwdGn%7C%7CDh6Kwh9HS+Lfjtg4o8uUl9UZFp+PkHfT72MSjlS5qyQU4Cn0zJv9JFhk7w1JHcXZX+v8MolOzjYMTIfQeoEH%7C%7Cbx7a8Koru5A2MGo1zRMrBC0GAG4fy3UPI7mslm3ayEv0Pxto0%7C%7CNylL9XkgKQcursrV%7C%7CndbEvL+M4Byp6JzSPkCj9ND1OHtpCa5BTB7Kzk4KD6chYTJnLMVgwbRJDQb8jSyTIgDYlxJ1gWt8RM1v9EPqoOmZKBq+98ZkIGRT2UFAjsm81JhmMntxxzsXC3x8GFI10Lez7+9aO8Lo5fAAPTLc4y4+TnoRKKMTOhUT3clItfMClH2IfyhQcdcy90dTaEa8n2Utjmzd4%7C%7Cn1RcsUzdMhWzY" />
+<img width="200" src="https:&#x2F;&#x2F;cdn1.picuki.com&#x2F;hosted-by-instagram&#x2F;q&#x3D;0exhNuNYnjBGZDHIdN5WmL9I2Pk2GAlRNecaS7j0nyZiNxIsbHWB58ltwdGn%7C%7CDh6Kwh9HS+LP2dg+osjTghTDk05OkHfAbKMTCBW6q2fXO2n0zwJ8JFjlL03K3YdZHWt%7C%7C8AsVQnHbHJNS6tJW%7C%7CKkp+0W%7C%7CvLuZDNq+C3IdONN9zhRjsuwBat72YUh5bCGjQXj55M+cHAbvG0vJQcuoN7epHQEWeC2DcB3mqJ2Uupd2pZD1OHtpCqwEjAPVGFHJjfKtrjPiM87ugD+QBYcvWSjSvQaDUoa0Xi8lTcQk61oi4agadogjbg3uf2HHFkmayFv9Rg5gsKYmwbuZnKm+UhH9kmBzIeTQsstr6XgA96lZ%7C%7CfmyzjNPYbGQ59bG3UKXaqEAn2IcqSVQfdXlbRcFfwTgFyz9l7u" /> 
+<img width="200" src="https:&#x2F;&#x2F;cdn1.picuki.com&#x2F;hosted-by-instagram&#x2F;q&#x3D;0exhNuNYnjBGZDHIdN5WmL9I2Pk2GAlRNucaS7j0nyZiNxIsbHWB58ltwdGn%7C%7CDh6Kwh9HS+LP2dg+osjTghTDk05OkHfAbKMTCBW6q2dU+mr1zcJ9ZZnk7cxK3ceZXKv8cosVAnFaXdORqpEV%7C%7C6tq+0V%7C%7CProZDcCyW2MbvQVlwlcsvysTP98xII046WVgUar7YgmK2kHoCUnKkhmpN%7C%7CZrjREUvHkdPF6pp50R6NR25ddrdDgmBq3GW53Un51IhyKsIDpjvkivW7NdQwC3yeiQ6RmDm4YhQWWsDQQk60PzoahNtA6lKp+vqiKHDY4flgy9jFYnaSZuhacf0%7C%7C5%7C%7CE8D1Gf16KeCIt0for7dA9CJW+rc9izUXZL1FeNCSjwABaGAAQ7+edbmVY5mmIhwD%7C%7CFKigm39gDlJw&#x3D;&#x3D;" />
+<img width="200" src="https:&#x2F;&#x2F;cdn1.picuki.com&#x2F;hosted-by-instagram&#x2F;q&#x3D;0exhNuNYnjBGZDHIdN5WmL9I2Pk2GAlRNecaS7j0nyZiNxIsbHWB58ltwdGn%7C%7CDh6Kwh9HS+Lfjtg4o8uUl9UZFp+PkHfT72MSjlS5qyQU4Cn0zJv9JFhk7w1JHcXZX+v8MolOzjYMTIfQeoEH%7C%7Cbx7a8Koru5A2MGo1zRMrBC0GAG4fy3UPI7mslm3ayEv0Pxto0%7C%7CNylL9XkgKQcursrV%7C%7CndbEvL+M4Byp6JzSPkCj9ND1OHtpCa5BTB7Kzk4KD6chYTJnLMVgwbRJDQb8jSyTIgDEB8fk2Gd8RM1v9EPqoOmZKBq+98ZkIGRT2UFAjsm81JhmMntxxzsXF+a0E9TxknexuKpe8YPicXbIaqTBvnx2RXqeqCGA+oBXkUmOa%7C%7CHfUfzFvqhQcdcy90dTdoajg6Utjmzd4%7C%7Cn1RcsUzdMhWzY" />
 </p>
 
 <p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/pnt_mpg/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @pnt_mpg!</a><br/>
 Crypto Tracker:<br>  
-<b>Bitcoin</b>: <b> $38291<br> 
-<b>Ethereum</b>: <b> $2656.18 <br>
-<b>DogeCoin</b>: <b> $0.13571 </b>
+<b>Bitcoin</b>: <b> $37266<br> 
+<b>Ethereum</b>: <b> $2599.01 <br>
+<b>DogeCoin</b>: <b> $0.129754 </b>
 </p>
 
 <hr>
 
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Tuesday, February 22, 2:48 AM GMT+5:30<br />
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Tuesday, February 22, 6:44 AM GMT+5:30<br />
