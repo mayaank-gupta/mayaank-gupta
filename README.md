@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Mayank!](https://imayank.me/) 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Mayank!](https://mayankgupta.me/) 
 
 ### Connect with me on:
 <a href="https://www.linkedin.com/in/xmayank/">
@@ -63,11 +63,11 @@
 
 <p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/pnt_mpg/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @pnt_mpg!</a><br/>
 Crypto Tracker:<br>  
-<b>Bitcoin</b>: <b> $41755<br> 
-<b>Ethereum</b>: <b> $2937.28 <br>
-<b>DogeCoin</b>: <b> $0.119184 </b>
+<b>Bitcoin</b>: <b> $41710<br> 
+<b>Ethereum</b>: <b> $2930.75 <br>
+<b>DogeCoin</b>: <b> $0.119566 </b>
 </p>
 
 <hr>
 
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Saturday, March 19, 11:55 AM GMT+5:30<br />
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Saturday, March 19, 2:03 PM GMT+5:30<br />
