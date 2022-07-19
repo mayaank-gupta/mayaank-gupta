@@ -56,18 +56,18 @@
 <h3>Auto Updation!</h3>
 
 <p>
-<img width="200" src="https:&#x2F;&#x2F;cdn1.picuki.com&#x2F;hosted-by-instagram&#x2F;q&#x3D;0exhNuNYnjBcaS3SYdxKjf8HzPtzWgxSZ60STLepjSVmIR1vLHOapZA0mpCj4yRwKwVlASuRYz1k5IwjU1hQAj1+OkffS7eOTz1V7a+QV++jvDRh9JJklrYwJHQWY3ep%7C%7CsMkUQmYdSgIGaYDG7uo+qhT5aGuO1lQpTb9d7JGmC4E5ZObS6olhMF4pJ2Jg3Tt%7C%7C9kiJzJE5m4vMAQpsNOI52tEX%7C%7CD+O8BnsaBwVLYBxMQK5qnRlSaHEmw+Jj8uRnagtIj+kOYA2AzMVxwswlalYa0SDnRHp3jjvDV3t4gj1aSAMok99PkakIH2bSAEXG428Fk71pu1ynOdV0GdhkB2lkWCmpHhS9pr9pmmDOKEf9Td6hnNRuXfPYpDUVRYUt3PC1vaJ6WPJc8fmY4SSqpq9njioVX7S7734wB4AGgdgTKNVME&#x3D;.jpeg?1" /> 
-<img width="200" src="https:&#x2F;&#x2F;cdn1.picuki.com&#x2F;hosted-by-instagram&#x2F;q&#x3D;0exhNuNYnjBcaS3SYdxKjf8HzPtzWg9SZ60STLepjSVmIR1vLHOapZA0mpCj4yRwKwVlASuRYz1k5I4sV1RUCT17PUPYQbGOTj5U6q2eXe+ivDZk8ZFpl7s8KH0aY3Sr9sUkVWGpNWwSDv5PHL%7C%7Clo79UvOa0LGFq8zCXW%7C%7CdEnGZK55f0Z7F9mt9wuuS4jkja45BsNz5F%7C%7CH8kKl1lo8%7C%7CU+HdYEvf0PMd6trV2QaUNh4kG5OKopCu7Lm4rbzMvR2jZhYXCoOELhn7dXCxqwmeSeKcsOG0mzH+8pBkc9IkqhdiDFotpidM%7C%7Ck4H2bUdBXG9p+kMjxdKyn36dOF+I6xth8mODwKaCRtQhsqfqMdyMB5ak9SPNI6fXPLR8XGIdAvfRZXf6eaXgFcB40IRKQa4c83+T1lGbMo%7C%7C63yxiDTEX1DaNCsoj.jpeg?1" />
-<img width="200" src="https:&#x2F;&#x2F;cdn1.picuki.com&#x2F;hosted-by-instagram&#x2F;q&#x3D;0exhNuNYnjBcaS3SYdxKjf8HzPtzWgxSZ60STLepjSVmIR1vLHOapZA0mpCj4yRwKwVlASuRYz1k5I0vVF5SDz1yOEfbSbKBSDlS6KWZXOjN1jVh%7C%7CZdnlLg3LHwdbXam98QlXQmYdSgIGaYDG7uo+qhT5aGuO1lQpTb9d7JGmC4E5ZObS6olhMF4pJ2Jg3Tt%7C%7C9kiJzJE5m4vMAQpsNOI52tEX%7C%7CD+O8BnsaBwVLYBxMQK5qnRlSaHEmw+Jj8uQHagtIj+kOYA2CTtYBYh43SofaYwDnRGsVjjiAx3t4gj1aSAMok99PkakIH2bSAEXG428Fk71pu1ynOdV0Gd4GxI7Hnhy6KGXaoPtqfKLv25RY%7C%7Cr6C3vSrmMPLQbDUg%7C%7CDfnYbAnkN9HmKc8fmY4SSqpq9Q+XpCf7S7734wB4AGgdgTKNVME&#x3D;.jpeg?1" />
+<img width="200" src="https:&#x2F;&#x2F;cdn1.picuki.com&#x2F;hosted-by-instagram&#x2F;q&#x3D;0exhNuNYnjBcaS3SYdxKjf8JyuVwWgxSZ60STLepjSVmIR1vLHOapZA0mpCj4yRwKwVlASuRYz1k5IwjU1hQAj1+OkffS7eOTz1V7a+QV++jvDRh9JJklrYwJHQWY3ep%7C%7CsMkUQmYdSgIGaYDG7uo+qhT5aGuO1lQpTb9d7JGmC4E5ZObS6olhMF4pJ2Jg3Tt%7C%7C9kiJzJE5m4vMAQnts2L52tEX%7C%7CD+O8BnsaBwVLYBxMQK5qnRlSaHEmw+Jj8uRnagtIj+kOYA2AzMVxwswlalYa0SDnRHh3aBpT13t4gj1aSAMok99PkakIH2bSAEXG428Fk71pu1ynOdV0GdkkJZkEzEyYCOWNMvk5C9KaOXXdnZ9hnWapjoTIFhanI+Otf%7C%7CC237JsSGH98fmY4SSqpq9HjkpVX7S7734wB4AGgdgTKNVME&#x3D;.jpeg?1" /> 
+<img width="200" src="https:&#x2F;&#x2F;cdn1.picuki.com&#x2F;hosted-by-instagram&#x2F;q&#x3D;0exhNuNYnjBcaS3SYdxKjf8JyuVwWgxSZ60STLepjSVmIR1vLHOapZA0mpCj4yRwKwVlASuRYz1k5I4sV1RUCT17PUPYQbGOTj5U6q2eXe+ivDZk8ZFpl7s8KH0aY3Sr9sUkVWGpNWwSDv5PHL%7C%7Clo79UvOa0LGFq8zCXW%7C%7CdEnGZK55f0Z7F9mt9wuuS4jkja45BsNz5F%7C%7CH8kKl1lrcnK+3dbEvf0PMd6trV2QaUNh4kG5OKopCu7Lm4rbzMvR2jZhYXCoOELhn7dXCxqwmeSeKcsOG0m2ASOrTkY9IkqhdiDFotpidM%7C%7Ck4H2bUdBXG9p+kMjxdKyn36dOF+I63x81GrFybjhasQAk5LPMNaXavD57QPndKn3TLx4V34dGNjzW07XD6WmD8ZO0IRKQa4c832TqSSbMo%7C%7C63yxiDTEX1DaNCsoj.jpeg?1" />
+<img width="200" src="https:&#x2F;&#x2F;cdn1.picuki.com&#x2F;hosted-by-instagram&#x2F;q&#x3D;0exhNuNYnjBcaS3SYdxKjf8JyuVwWgxSZ60STLepjSVmIR1vLHOapZA0mpCj4yRwKwVlASuRYz1k5I0vVF5SDz1yOEfbSbKBSDlS6KWZXOjN1jVh%7C%7CZdnlLg3LHwdbXam98QlXQmYdSgIGaYDG7uo+qhT5aGuO1lQpTb9d7JGmC4E5ZObS6olhMF4pJ2Jg3Tt%7C%7C9kiJzJE5m4vMAQnts2L52tEX%7C%7CD+O8BnsaBwVLYBxMQK5qnRlSaHEmw+Jj8uQHagtIj+kOYA2ArxYwIPq3XwUK0SDnRHtnmevR13t4gj1aSAMok99PkakIH2bSAEXG428Fk71pu1ynOdV0Gdkm950nLfmquZQNZ0vLfhCuKkDNHZ9jjQQaDcR41fanAXFub5QWrRE8bvUc8fmY4SSqpq8w%7C%7CgqCf7S7734wB4AGgdgTKNVME&#x3D;.jpeg?1" />
 </p>
 
 <p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/pnt_mpg/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @pnt_mpg!</a><br/>
 Crypto Tracker:<br>  
-<b>Bitcoin</b>: <b> $22013<br> 
-<b>Ethereum</b>: <b> $1530.18 <br>
-<b>DogeCoin</b>: <b> $0.06665 </b>
+<b>Bitcoin</b>: <b> $21884<br> 
+<b>Ethereum</b>: <b> $1530.23 <br>
+<b>DogeCoin</b>: <b> $0.066511 </b>
 </p>
 
 <hr>
 
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Tuesday, July 19, 11:58 AM GMT+5:30<br />
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Tuesday, July 19, 2:57 PM GMT+5:30<br />
