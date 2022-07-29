@@ -56,18 +56,18 @@
 <h3>Auto Updation!</h3>
 
 <p>
-<img width="200" src="https:&#x2F;&#x2F;cdn1.picuki.com&#x2F;hosted-by-instagram&#x2F;q&#x3D;0exhNuNYnjBcaS3SYdxKjf8fx+9wWgxSZ60STLepjSVmIR1vLHOapZA0mpCj4yRwKwVlASuRYz1k5IwjU1hQAj1+OkffS7eOTz1V7a+QV++jvDRh9JJklrYwJHQWY3ep%7C%7CsMkUQmYdSgIGaYDG7uo+qhT5aGuO1lQpTb9d7JGmC4E5ZObS6olhMF4pJ2Jg3Tt%7C%7C9kiJzJE5m4vMAQxu8eL52tEX%7C%7CD+O8BnsaBwVLYBxMQK5qnRlSaHEmw+Jj8uRnagtIj+kOYA2BTtXhQCqVCJUf9vDnRHo3qYrhR3t4gj1aSAMok99PkakIH2bSAEXG428Fk71pu1ynOdV0Gdknl+1DPj%7C%7CamYJtEEiozpJ9fFZPnkmHmZeb%7C%7CoLK9%7C%7CVFc7A7HhWkXFbfSzVt8fmY4SSqprj32Q1FX7S7734wB4AGgdgTKNVME&#x3D;.jpeg?1" /> 
-<img width="200" src="https:&#x2F;&#x2F;cdn1.picuki.com&#x2F;hosted-by-instagram&#x2F;q&#x3D;0exhNuNYnjBcaS3SYdxKjf8fx+9wWgxSZ60STLepjSVmIR1vLHOapZA0mpCj4yRwKwVlASuRYz1k5I4sV1RUCT17PUPYQbGOTj5U6q2eXe+ivDZk8ZFpl7s8KH0aY3Sr9sUkVWGpNWwSDv5PHL%7C%7Clo79UvOa0LGFq8zCXW%7C%7CdEnGZK55f0Z7F9mt9wuuS4jkja45BsNz5F%7C%7CH8kKl1lu8TA+3dbEvf0PMd6trV2QaUNh4kG5OKopCu7Lm4rbzMvR2jZhYXCoOELhn7cVRgwqHCoSqs+JG0mvmSSuyIj9IkqhdiDFotpidM%7C%7Ck4H2bUdBXG9p+kMjxdKyn36dOF+I63xjyVns6KqVJssqkcbGAvXMDMHv+Hb1VpvrPbAVCHIaKtTAWm34Euy+UNtO0IRKQa4c8gaRp1WbMo%7C%7C63yxiDTEX1DaNCsoj.jpeg?1" />
-<img width="200" src="https:&#x2F;&#x2F;cdn1.picuki.com&#x2F;hosted-by-instagram&#x2F;q&#x3D;0exhNuNYnjBcaS3SYdxKjf8fx+9wWgxSZ60STLepjSVmIR1vLHOapZA0mpCj4yRwKwVlASuRYz1k5I0vVF5SDz1yOEfbSbKBSDlS6KWZXOjN1jVh%7C%7CZdnlLg3LHwdbXam98QlXQmYdSgIGaYDG7uo+qhT5aGuO1lQpTb9d7JGmC4E5ZObS6olhMF4pJ2Jg3Tt%7C%7C9kiJzJE5m4vMAQxu8eL52tEX%7C%7CD+O8BnsaBwVLYBxMQK5qnRlSaHEmw+Jj8uQHagtIj+kOYA2A%7C%7CJTD019zaPcp0wDnRGg3qssj93t4gj1aSAMok99PkakIH2bSAEXG428Fk71pu1ynOdV0GdhnZb8WPs7JeHX6sIs9j4C8Gye+T4gTjlZYvLO59ECmBXK8aCdnjfI%7C%7C3jBd8fmY4SSqprj3jmoCf7S7734wB4AGgdgTKNVME&#x3D;.jpeg?1" />
+<img width="200" src="" /> 
+<img width="200" src="" />
+<img width="200" src="" />
 </p>
 
 <p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/pnt_mpg/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @pnt_mpg!</a><br/>
 Crypto Tracker:<br>  
-<b>Bitcoin</b>: <b> $24034<br> 
-<b>Ethereum</b>: <b> $1733.39 <br>
-<b>DogeCoin</b>: <b> $0.071415 </b>
+<b>Bitcoin</b>: <b> $23956<br> 
+<b>Ethereum</b>: <b> $1721.89 <br>
+<b>DogeCoin</b>: <b> $0.070322 </b>
 </p>
 
 <hr>
 
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, July 29, 12:00 PM GMT+5:30<br />
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, July 29, 2:53 PM GMT+5:30<br />
