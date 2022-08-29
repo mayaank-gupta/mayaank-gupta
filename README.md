@@ -56,18 +56,18 @@
 <h3>Auto Updation!</h3>
 
 <p>
-<img width="200" src="https:&#x2F;&#x2F;cdn1.picuki.com&#x2F;hosted-by-instagram&#x2F;q&#x3D;0exhNuNYnjBGZDHIdN5WmL9I2PgyBgxRNecaS7j0nyZiNxIsbHWB58ltwdGn%7C%7CDh6Kwh9HS+Lfjtg44MpVF1ZZFZ8PkXdSrKLTj5X7KWbVO7N0jJm8ZJjnbs9LHwZZHCm98spOzjYMTIfQeoEH%7C%7Cbx7a8Koru5A2MGo1zRMrBC0GAG4fy3UPI7mslm3ayEv0Pxto0%7C%7CNylL9XkgKQcur87L+3dbEvL+M4Byp6JzSPkCj9ND1OHtpCa5BTB7Kz84KD6chYTJnLMilnPgUzstqU70aogDdlZMoke48RM1v9EPp7TzN916+98ZkIGRT2UFAjsm8lJhmMntxxzsXDmzikUBkTnkk5+ycNUvs8fCd9uxWInt5xCUb7nKH+8cfmNYD9PZQXzrH6WHQcdcy90cTaobgQ%7C%7Cmtjmzd4%7C%7Cn1RcsXDNO0maJ.jpeg?1" /> 
-<img width="200" src="https:&#x2F;&#x2F;cdn1.picuki.com&#x2F;hosted-by-instagram&#x2F;q&#x3D;0exhNuNYnjBGZDHIdN5WmL9I2PgyBgxRNecaS7j0nyZiNxIsbHWB58ltwdGn%7C%7CDh6Kwh9HS+Lfjtg4YwtWFlSZFN7OkLXTLKKTT9Q7quRVO%7C%7CN0Ddj8p9ikLcxJXAZZ3Ku8cstUwmYdSgIGaYDG7uo+qhT5aGuO1lQpTb9d7JGmC4E5ZObS6olhMF4pJ2Jg3Tt%7C%7C9k4Ki5e82wzJURmpNDJu2tHDbr2PM86o6N0QrlChMIRrdDgmBq7EHl3Kj4mUQ+RubTOl+1ehwrOJRENwnu+RL4aFwEminSzkFA0toFzqaqTZY49ztwZkIH2CmUEXTE86kEon5zgx3PySVTx9BUf9TLj9P6VU%7C%7C8CkYfDDOa5R46xxifsaqvyGutLW25YOOjvC1z3J9aSEI5Wk9YZT6kcgnvi1kCCerPLzxp1WW1Mh2XZDg&#x3D;&#x3D;.jpeg?1" />
-<img width="200" src="https:&#x2F;&#x2F;cdn1.picuki.com&#x2F;hosted-by-instagram&#x2F;q&#x3D;0exhNuNYnjBGZDHIdN5WmL9I2PgyBgxRNecaS7j0nyZiNxIsbHWB58ltwdGn%7C%7CDh6Kwh9HS+Lfjtg4o8uUl9UZFp+PkHfT72MSjlS5qyQU4Cn0zJv9JFhk7w1JHcXZX+v8MolOzjYMTIfQeoEH%7C%7Cbx7a8Koru5A2MGo1zRMrBC0GAG4fy3UPI7mslm3ayEv0Pxto0%7C%7CNylL9XkgKQcur87L+3dbEvL+M4Byp6JzSPkCj9ND1OHtpCa5BTB7Kzk4KD6chYTJnLMughPLRTYWonixE4gDd0Ywg0258RM1v9EPp7TzN916+98ZkIGRT2UFAjsm8lJhmMntxxzsXDiH93lr6m2G9Yu8KuwNjsfiEtC7Q%7C%7CO8%7C%7CgnZfZXKEKFuTXg5D6X6YgfMJfKxQcdcy90cTaoZ9gqUtjmzd4%7C%7Cn1RcsXDNO0maJ.jpeg?1" />
+<img width="200" src="" /> 
+<img width="200" src="" />
+<img width="200" src="" />
 </p>
 
 <p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/pnt_mpg/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @pnt_mpg!</a><br/>
 Crypto Tracker:<br>  
-<b>Bitcoin</b>: <b> $19964.62<br> 
-<b>Ethereum</b>: <b> $1483.49 <br>
-<b>DogeCoin</b>: <b> $0.063039 </b>
+<b>Bitcoin</b>: <b> $20211<br> 
+<b>Ethereum</b>: <b> $1519.02 <br>
+<b>DogeCoin</b>: <b> $0.063595 </b>
 </p>
 
 <hr>
 
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday, August 29, 6:19 PM GMT+5:30<br />
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday, August 29, 8:55 PM GMT+5:30<br />
