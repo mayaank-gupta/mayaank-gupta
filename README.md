@@ -63,11 +63,11 @@
 
 <p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/pnt_mpg/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @pnt_mpg!</a><br/>
 Crypto Tracker:<br>  
-<b>Bitcoin</b>: <b> $19323.63<br> 
-<b>Ethereum</b>: <b> $1311.56 <br>
-<b>DogeCoin</b>: <b> $0.05905 </b>
+<b>Bitcoin</b>: <b> $19187.68<br> 
+<b>Ethereum</b>: <b> $1299.79 <br>
+<b>DogeCoin</b>: <b> $0.058665 </b>
 </p>
 
 <hr>
 
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday, October 17, 2:54 AM GMT+5:30<br />
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday, October 17, 8:21 AM GMT+5:30<br />
